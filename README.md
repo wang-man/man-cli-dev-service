@@ -1,1 +1,1 @@
-# man-cli-dev-service
+# Midway Serverless http trigger
